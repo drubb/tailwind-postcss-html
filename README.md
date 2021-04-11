@@ -9,8 +9,8 @@ including live reload capabilities.
 Fetch the code, install dependencies and run the dev server:
 
 ```
-npx degit drubb/tailwind-postcss-html
-cd tailwind-postcss-html
+npx degit drubb/tailwind-postcss-html playground
+cd playground
 npm install
 npm run dev
 ```
