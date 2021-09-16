@@ -27,7 +27,7 @@ command in package.json!
 
 ## Features
 
-* [Tailwind 2.1](https://tailwindcss.com) with [Jit mode](https://tailwindcss.com/docs/just-in-time-mode) activated
+* [Tailwind 2.2](https://tailwindcss.com) with [Jit mode](https://tailwindcss.com/docs/just-in-time-mode) activated
 * [PostCSS 8](https://postcss.org) with [postcss-import](https://github.com/postcss/postcss-import) and [postcss-preset-env](https://preset-env.cssdb.org)
 * [Live-Server](https://npmjs.com/package/live-server) to provide live reload capability
 
